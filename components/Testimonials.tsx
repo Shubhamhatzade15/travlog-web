@@ -23,7 +23,7 @@ const Testimonials = () => {
               <Image src='/star-yellow.png' alt='rating' width={30} height={30} />
               <Image src='/star-yellow.png' alt='rating' width={30} height={30} />
             </div>            
-            <p className='text-lg lg:w-3/4 xl:w-1/2 text-center'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+            <p className='text-lg lg:w-3/4 xl:w-1/2 text-center'>We are finally back home from our trip and I would like to thank you for organizing our trip for us throughout. </p>
           </div>
           <div className='flex gap-6 flex-col h-full items-center justify-center'>
             <Image className='rounded-[50%]' src="/profile1.jpg" alt="..." width={120} height={100} />
@@ -34,7 +34,7 @@ const Testimonials = () => {
               <Image src='/star-yellow.png' alt='rating' width={30} height={30} />
               <Image src='/star-yellow.png' alt='rating' width={30} height={30} />
             </div>            
-            <p className='text-lg lg:w-3/4 xl:w-1/2 text-center'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+            <p className='text-lg lg:w-3/4 xl:w-1/2 text-center'>It was a wonderful experience for us. All your arrangements were up to the mark.</p>
           </div>
           <div className='flex gap-6 flex-col h-full items-center justify-center'>
             <Image className='rounded-[50%]' src="/profile3.jpg" alt="..." width={120} height={100} />
