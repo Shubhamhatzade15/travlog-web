@@ -17,7 +17,7 @@ const Testimonials = () => {
         <Carousel pauseOnHover slideInterval={2000} className='py-4'>
           <div className='flex gap-6 flex-col h-full items-center justify-center'>
             <Image className='rounded-[50%]' src="/profile2.jpg" alt="..." width={120} height={100} />
-            <h1 className='text-xl font-semibold'><span className='text-[#FF5722]'>Mark Smith</span> / Travel Enthusiast</h1>
+            <h1 className='text-xl font-semibold'><span className='text-[#FF5722]'>Shubham H</span> / Travel Enthusiast</h1>
             <div className='flex gap-2'>
               <Image src='/star-yellow.png' alt='rating' width={30} height={30} />
               <Image src='/star-yellow.png' alt='rating' width={30} height={30} />
